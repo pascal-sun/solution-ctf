@@ -19,6 +19,10 @@ Very correct!
 ## Session #4 - Julia
 
 ### Julia
+```powershell
+PS C:\Users\psun\Downloads\Exer2_Juila> .\Exer2_Juila.exe REIsTheBest
+Brava!!!
+```
 
 ## Ressources
 - https://hex-men.tech/reverse-engineering-for-beginners/
